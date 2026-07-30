@@ -25,15 +25,6 @@ This is a working draft, not a finished standard. It's published to invite scrut
 
 ---
 
-## Documentation
-
-- **Whitepaper (EN):** [`docs/ANP_whitepaper_draft_EN.md`](docs/ANP_whitepaper_draft_EN.md)
-- **Whitepaper (FR):** [`docs/ANP_whitepaper_draft.md`](docs/ANP_whitepaper_draft.md)
-- **Architecture diagram:** [`docs/diagrams/anp_layers.svg`](docs/diagrams/anp_layers.svg)
-- **Governance:** [`GOVERNANCE.md`](GOVERNANCE.md) · **Contributing:** [`CONTRIBUTING.md`](CONTRIBUTING.md)
-
----
-
 ## Architecture overview: 6 layers + 1 transversal layer
 
 | Layer | Name | Core role |
@@ -106,9 +97,8 @@ Open an issue or submit a pull request — disagreement is welcome and expected 
 
 ANP is developed independently, without institutional or corporate backing. If you'd like to help fund the next step — a proof-of-concept implementation limited to Layer 3 (Interaction), which requires compute resources — here's how:
 
-- **Bitcoin:** 1EDrde4DHf1p8Vm34Rmax1SRzXNZiooRf7
-- **Open Collective:** [https://opencollective.com/anp-protocol](https://opencollective.com/anp-protocol) — full transparency on funds in and out
-- **GitHub Sponsors:** not yet available for this maintainer's region
+- **Bitcoin (BTC):** `1EDrde4DHf1p8Vm34Rmax1SRzXNZiooRf7`
+- **USDT (ERC-20 / Ethereum network):** `0x3661f7006a5fb87cf1a035319b8fc39e62243b1a`
 
 No pressure, no tiers, no perks — just a way to support independent work if it's useful to you.
 
