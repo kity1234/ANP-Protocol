@@ -25,15 +25,6 @@ Ce document est un draft de travail, pas un standard achevé. Il est publié pou
 
 ---
 
-## Documentation
-
-- **Whitepaper (FR) :** [`docs/ANP_whitepaper_draft.md`](docs/ANP_whitepaper_draft.md)
-- **Whitepaper (EN) :** [`docs/ANP_whitepaper_draft_EN.md`](docs/ANP_whitepaper_draft_EN.md)
-- **Schéma d'architecture :** [`docs/diagrams/anp_layers.svg`](docs/diagrams/anp_layers.svg)
-- **Gouvernance :** [`GOVERNANCE.fr.md`](GOVERNANCE.fr.md) · **Contribuer :** [`CONTRIBUTING.fr.md`](CONTRIBUTING.fr.md)
-
----
-
 ## Architecture générale : 6 couches + 1 couche transversale
 
 | Couche | Nom | Rôle clé |
@@ -106,9 +97,8 @@ Ouvrez une issue ou soumettez une pull request — le désaccord est bienvenu et
 
 ANP est développé de façon indépendante, sans soutien institutionnel ou d'entreprise. Si tu veux aider à financer la prochaine étape — une implémentation de preuve de concept limitée à la Couche 3 (Interaction), qui nécessite des ressources de calcul — voici comment :
 
-- **Bitcoin :** 1EDrde4DHf1p8Vm34Rmax1SRzXNZiooRf7
-- **Open Collective :** [https://opencollective.com/anp-protocol](https://opencollective.com/anp-protocol) — transparence totale sur les fonds entrants et sortants
-- **GitHub Sponsors :** pas encore disponible pour la région du mainteneur
+- **Bitcoin :** `1EDrde4DHf1p8Vm34Rmax1SRzXNZiooRf7`
+- **USDT (réseau ERC-20 / Ethereum) :** `0x3661f7006a5fb87cf1a035319b8fc39e62243b1a`
 
 Aucune pression, aucun palier, aucune contrepartie — juste un moyen de soutenir un travail indépendant si ça te semble utile.
 
