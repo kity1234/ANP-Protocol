@@ -1,4 +1,4 @@
-# ANP — Artificial Network Protocol
+# SANP — Semantic Artificial Network Protocol
 ### Un modèle en couches pour l'interopérabilité, le raisonnement distribué et la gouvernance de l'intelligence artificielle
 
 ![Statut : Draft v0.1](https://img.shields.io/badge/status-draft-orange)
@@ -9,7 +9,7 @@
 
 ## En une phrase
 
-**ANP est un modèle conceptuel qui traite la communication entre systèmes d'IA comme un problème architectural à part entière** — un problème que les protocoles réseau classiques n'ont jamais eu à résoudre, parce qu'ils transportent des bits, pas du sens.
+**SANP est un modèle conceptuel qui traite la communication entre systèmes d'IA comme un problème architectural à part entière** — un problème que les protocoles réseau classiques n'ont jamais eu à résoudre, parce qu'ils transportent des bits, pas du sens.
 
 ---
 
