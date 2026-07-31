@@ -1,6 +1,6 @@
 # Gouvernance
 
-ANP est maintenu par un seul auteur à ce stade (v0.1). Ce document explique comment les décisions sont prises aujourd'hui, et comment cela est amené à évoluer à mesure que le projet mûrit.
+SANP est maintenu par un seul auteur à ce stade (v0.1). Ce document explique comment les décisions sont prises aujourd'hui, et comment cela est amené à évoluer à mesure que le projet mûrit.
 
 ## Modèle actuel : mainteneur bienveillant, critique ouverte
 
@@ -16,7 +16,7 @@ ANP est maintenu par un seul auteur à ce stade (v0.1). Ce document explique com
 
 ## Ce qui se passera si le projet grandit
 
-Si ANP attire un groupe soutenu de contributeurs actifs, l'intention est d'évoluer vers un **modèle de groupes de travail** : des groupes informels organisés autour de couches spécifiques (par exemple un groupe alignement sémantique pour la Couche 4, un groupe vérification pour la Couche 0), chacun pouvant proposer des changements sur son périmètre avec moins de friction qu'un mainteneur unique qui reviserait tout seul.
+Si SANP attire un groupe soutenu de contributeurs actifs, l'intention est d'évoluer vers un **modèle de groupes de travail** : des groupes informels organisés autour de couches spécifiques (par exemple un groupe alignement sémantique pour la Couche 4, un groupe vérification pour la Couche 0), chacun pouvant proposer des changements sur son périmètre avec moins de friction qu'un mainteneur unique qui reviserait tout seul.
 
 Un organe de gouvernance formel (comité de pilotage, fondation, ou équivalent) n'est pas mis en place de façon préventive. En créer un avant qu'il existe une vraie communauté à gouverner serait du théâtre de gouvernance, pas de la gouvernance.
 
@@ -27,4 +27,4 @@ Un organe de gouvernance formel (comité de pilotage, fondation, ou équivalent)
 
 ## Gestion des versions
 
-Les changements substantiels au modèle sont consignés dans la section historique des versions du whitepaper (voir `docs/ANP_whitepaper_draft.md`), pas fusionnés silencieusement sans trace.
+Les changements substantiels au modèle sont consignés dans la section historique des versions du whitepaper (voir `docs/SANP_whitepaper_draft.md`), pas fusionnés silencieusement sans trace.
