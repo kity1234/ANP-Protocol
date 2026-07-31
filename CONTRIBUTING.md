@@ -1,6 +1,6 @@
-# Contributing to ANP
+# Contributing to SANP
 
-ANP is a working draft, not a finished standard. It's published specifically to be challenged, tested, and improved by people who know things the author doesn't. If you're reading this, you're not too early and you don't need permission to disagree.
+SANP is a working draft, not a finished standard. It's published specifically to be challenged, tested, and improved by people who know things the author doesn't. If you're reading this, you're not too early and you don't need permission to disagree.
 
 ## What kind of contributions are useful right now
 
