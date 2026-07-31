@@ -1,6 +1,6 @@
 # Governance
 
-ANP is maintained by a single author at this stage (v0.1). This document explains how decisions are made today, and how that is expected to change as the project matures.
+SANP is maintained by a single author at this stage (v0.1). This document explains how decisions are made today, and how that is expected to change as the project matures.
 
 ## Current model: benevolent maintainer, open critique
 
@@ -16,7 +16,7 @@ ANP is maintained by a single author at this stage (v0.1). This document explain
 
 ## What happens as the project grows
 
-If ANP attracts a sustained group of active contributors, the intent is to move toward a **working-group model**: informal groups organized around specific layers (e.g. a Layer 4 semantic-alignment group, a Layer 0 verification group), each able to propose changes to their area with lighter friction than a single maintainer reviewing everything alone.
+If SANP attracts a sustained group of active contributors, the intent is to move toward a **working-group model**: informal groups organized around specific layers (e.g. a Layer 4 semantic-alignment group, a Layer 0 verification group), each able to propose changes to their area with lighter friction than a single maintainer reviewing everything alone.
 
 A formal governance body (steering committee, foundation, or similar) is not being set up preemptively. Setting one up before there's a real community to govern would be governance theater, not governance.
 
@@ -27,4 +27,4 @@ A formal governance body (steering committee, foundation, or similar) is not bei
 
 ## Versioning
 
-Substantive changes to the model are logged in the whitepaper's version history section (see `docs/ANP_whitepaper_draft_EN.md`), not silently merged without a trace.
+Substantive changes to the model are logged in the whitepaper's version history section (see `docs/SANP_whitepaper_draft_EN.md`), not silently merged without a trace.
