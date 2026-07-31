@@ -1,4 +1,4 @@
-# ANP — Artificial Network Protocol
+# SANP — Semantic Artificial Network Protocol
 ### A layered model for interoperability, distributed reasoning, and governance in artificial intelligence
 
 **Document status:** Working draft (v0.1) — open proposal for discussion and critique
@@ -10,7 +10,7 @@
 
 ## Abstract
 
-The current AI ecosystem is developing without a shared architectural grammar: every major actor (OpenAI, Google, Anthropic, the open-source community, national labs) is building its own interconnection protocols — MCP, A2A, proprietary formats — with no unifying framework to reason about the whole. This document proposes **ANP (Artificial Network Protocol)**, a conceptual layered model inspired by the OSI model but fundamentally adapted to the specific properties of AI: the probabilistic nature of these systems, the need to route by *meaning* rather than by address, and the requirement for ethical governance to be built in rather than added afterward.
+The current AI ecosystem is developing without a shared architectural grammar: every major actor (OpenAI, Google, Anthropic, the open-source community, national labs) is building its own interconnection protocols — MCP, A2A, proprietary formats — with no unifying framework to reason about the whole. This document proposes **SANP (Semantic Artificial Network Protocol)**, a conceptual layered model inspired by the OSI model but fundamentally adapted to the specific properties of AI: the probabilistic nature of these systems, the need to route by *meaning* rather than by address, and the requirement for ethical governance to be built in rather than added afterward.
 
 ANP does not claim to solve every open problem in the field. It proposes a structure to name them clearly, and explicitly identifies the areas that remain active research rather than solved engineering.
 
