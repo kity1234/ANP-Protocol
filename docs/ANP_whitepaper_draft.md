@@ -1,4 +1,4 @@
-# ANP — Artificial Network Protocol
+# SANP — Artificial Network Protocol
 ### Un modèle en couches pour l'interopérabilité, le raisonnement distribué et la gouvernance de l'intelligence artificielle
 
 **Statut du document :** Draft de travail (v0.1) — proposition ouverte à discussion et critique
@@ -10,7 +10,7 @@
 
 ## Résumé
 
-L'écosystème actuel de l'intelligence artificielle se développe sans grammaire architecturale commune : chaque acteur (OpenAI, Google, Anthropic, communauté open source, laboratoires nationaux) construit ses propres protocoles d'interconnexion — MCP, A2A, formats propriétaires — sans cadre unificateur permettant de penser l'ensemble. Ce document propose **ANP (Artificial Network Protocol)**, un modèle conceptuel en couches inspiré du modèle OSI, mais fondamentalement adapté aux propriétés spécifiques de l'IA : la nature probabiliste des systèmes, le besoin de router par le *sens* plutôt que par l'adresse, et l'exigence d'une gouvernance éthique intégrée plutôt qu'ajoutée après coup.
+L'écosystème actuel de l'intelligence artificielle se développe sans grammaire architecturale commune : chaque acteur (OpenAI, Google, Anthropic, communauté open source, laboratoires nationaux) construit ses propres protocoles d'interconnexion — MCP, A2A, formats propriétaires — sans cadre unificateur permettant de penser l'ensemble. Ce document propose **SANP (Artificial Network Protocol)**, un modèle conceptuel en couches inspiré du modèle OSI, mais fondamentalement adapté aux propriétés spécifiques de l'IA : la nature probabiliste des systèmes, le besoin de router par le *sens* plutôt que par l'adresse, et l'exigence d'une gouvernance éthique intégrée plutôt qu'ajoutée après coup.
 
 ANP ne prétend pas résoudre tous les problèmes ouverts du domaine. Il propose une structure pour les nommer clairement, et identifie explicitement les zones qui relèvent encore de la recherche active plutôt que de l'ingénierie résolue.
 
