@@ -1,6 +1,6 @@
-# Contribuer à ANP
+# Contribuer à SANP
 
-ANP est un draft de travail, pas un standard achevé. Il est publié précisément pour être challengé, testé et amélioré par des personnes qui savent des choses que l'auteur ignore. Si tu lis ceci, tu n'arrives pas trop tôt et tu n'as pas besoin de permission pour ne pas être d'accord.
+SANP est un draft de travail, pas un standard achevé. Il est publié précisément pour être challengé, testé et amélioré par des personnes qui savent des choses que l'auteur ignore. Si tu lis ceci, tu n'arrives pas trop tôt et tu n'as pas besoin de permission pour ne pas être d'accord.
 
 ## Quel type de contribution est utile en ce moment
 
